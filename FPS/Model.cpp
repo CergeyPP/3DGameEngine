@@ -13,7 +13,7 @@ void Model::loadModel(std::string path, glm::vec3 scale) {
         std::cout << "ERROR::ASSIMP::" << importer.GetErrorString() << std::endl;
         return;
     }
-    this->path = "d:/проекты/FPS/FPS/"+path;
+    this->path = path;
 
     processNode(Scene->mRootNode, Scene, scale);
 }
