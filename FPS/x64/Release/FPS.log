@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\проекты\FPS\FPS\ODE\include\ode\precision.h(13,1): warning C4005: dSINGLE: изменение макроопределения
+D:\проекты\FPS\FPS\main.cpp : message : см. предыдущее определение "dSINGLE"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(388,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(389,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(401,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(423,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(424,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\ODE\include\ode\odecpp_collision.h(463,9): warning C4068: неизвестная прагма "GCC"
+D:\проекты\FPS\FPS\main.cpp(48,15): warning C4305: инициализация: усечение из "double" в "float"
+D:\проекты\FPS\FPS\main.cpp(116,29): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\FPS\FPS\main.cpp(121,29): warning C4305: аргумент: усечение из "double" в "T"
+          with
+          [
+              T=float
+          ]
+D:\проекты\FPS\FPS\main.cpp(153,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\проекты\FPS\FPS\main.cpp(157,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  0 of 1701 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  FPS.vcxproj -> D:\проекты\FPS\x64\Release\FPS.exe
